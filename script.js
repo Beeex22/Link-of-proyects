@@ -15,7 +15,7 @@ setTimeout(()=>{
 
 function startTyping(){
 
- const text='¿Me amas?';
+ const text='¿Do you love me?';
 
  let i=0;
 
