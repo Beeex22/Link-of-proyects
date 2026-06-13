@@ -127,7 +127,7 @@ function createHearts(){
       heart.remove();
    },15000);
 
- },100);
+ },250);
 
 }
 
@@ -156,6 +156,6 @@ function createTexts(){
       text.remove();
    },5000);
 
- },333);
+ },666);
 
 }
